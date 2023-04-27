@@ -1,0 +1,22 @@
+.navigation__list {
+    list-style-type: none;
+    margin: 20px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #929491e3;
+    box-shadow: 1px 1px 5px 0px #888b88;
+    border: 1px solid #7e807e;
+}
+
+.navigation__item {
+    float: left;
+    display: block;
+    text-decoration: none;
+    color: #e4e2e2;
+    font-size: 20px;
+    padding: 8px 47px;
+}
+
+.navigation__item:hover {
+    background-color: #615e5e;
+}
