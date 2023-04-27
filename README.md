@@ -1,4 +1,4 @@
-# Piotr Suszynski- Moja strona
+# Piotr Suszyński- Moja strona
 
 ##demo
 
